@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FerreteriaGUI",
+            "request": "launch",
+            "mainClass": "FerreteriaGUI",
+            "projectName": "mini_proyecto2_33e3c281"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
