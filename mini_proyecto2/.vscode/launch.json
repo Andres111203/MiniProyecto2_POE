@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ProductPanel",
+            "request": "launch",
+            "mainClass": "ProductPanel",
+            "projectName": "mini_proyecto2_33e3c281"
+        },
+        {
+            "type": "java",
+            "name": "FerreteriaGUI",
+            "request": "launch",
+            "mainClass": "Ferreteria.FerreteriaGUI",
+            "projectName": "mini_proyecto2_33e3c281"
+        },
+        {
+            "type": "java",
             "name": "FerreteriaGUI",
             "request": "launch",
             "mainClass": "FerreteriaGUI",
